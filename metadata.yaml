@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36611#Bible-Stories-and-PicturesFrom-the-Old-and-New-Testaments
 gutenberg_issued: '2011-07-04'
 gutenberg_type: Text
 identifiers:
